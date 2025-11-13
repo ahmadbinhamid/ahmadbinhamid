@@ -173,7 +173,7 @@ Event planning app with real-time collaboration
 
 ## 📈 Activity Graph
 
-[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadbinhamid&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
