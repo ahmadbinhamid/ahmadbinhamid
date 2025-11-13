@@ -101,19 +101,6 @@ I'm passionate about the intersection of artificial intelligence and practical a
 
 ---
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbinhamid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbinhamid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbinhamid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 ### 🤖 VCVS - AI-Powered Vision Validation System
@@ -168,12 +155,6 @@ Event planning app with real-time collaboration
 ## 🎯 What Drives Me
 
 > "I don't just write code—I build solutions that solve real problems and deliver measurable impact. Whether it's reducing processing time by 70%, ensuring healthcare compliance, or creating apps that serve thousands of users, I focus on outcomes that matter."
-
----
-
-## 📈 Activity Graph
-
-[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadbinhamid&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
