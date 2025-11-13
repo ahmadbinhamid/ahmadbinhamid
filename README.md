@@ -39,15 +39,9 @@ I'm passionate about the intersection of artificial intelligence and practical a
 ---
 
 ## 🌐 Connect with Me:
-<a href="https://www.linkedin.com/in/ahmad-h-a62a84182/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ahmadbinhamid164@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://abh-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-h-a62a84182/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbinhamid164@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=About.me&logoColor=white)](https://abh-portfolio.vercel.app/)
 
 ---
 
