@@ -39,9 +39,9 @@ I'm passionate about the intersection of artificial intelligence and practical a
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-h-a62a84182)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-h-a62a84182/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbinhamid164@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=About.me&logoColor=white)]([your-portfolio-url](https://abh-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=About.me&logoColor=white)](https://abh-portfolio.vercel.app/)
 
 ---
 
@@ -193,8 +193,6 @@ I'm always interested in:
   
 ### ⭐️ From [Ahmad Bin Hamid](https://github.com/ahmadbinhamid)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
-
-**"Building the future, one commit at a time."** 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadbinhamid&color=blueviolet&style=for-the-badge)
 
 </div>
