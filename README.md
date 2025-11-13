@@ -132,7 +132,7 @@ Event planning app with real-time collaboration
 
 ## 💼 Professional Experience
 
-### 🏢 Max Performance Group (USA) - *Full Stack Developer*
+### 🏢 Max Performance Group (USA) - *Software Engineer*
 *May 2025 - Present | Remote*
 - Leading AI/ML development for enterprise automation systems
 - Building computer vision and OCR platforms
